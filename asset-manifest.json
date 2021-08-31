@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/css/main.a617e044.chunk.css",
-    "main.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/main.29ffaeab.chunk.js",
-    "main.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/main.29ffaeab.chunk.js.map",
-    "runtime-main.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/runtime-main.086e0bb9.js",
-    "runtime-main.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/runtime-main.086e0bb9.js.map",
-    "static/js/2.c3caeb76.chunk.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.c3caeb76.chunk.js",
-    "static/js/2.c3caeb76.chunk.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.c3caeb76.chunk.js.map",
-    "static/js/3.9f26121e.chunk.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/3.9f26121e.chunk.js",
-    "static/js/3.9f26121e.chunk.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/3.9f26121e.chunk.js.map",
+    "main.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/main.ea177696.chunk.js",
+    "main.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/main.ea177696.chunk.js.map",
+    "runtime-main.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/runtime-main.8a5facb2.js",
+    "runtime-main.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/runtime-main.8a5facb2.js.map",
+    "static/js/2.4a9b748c.chunk.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.4a9b748c.chunk.js",
+    "static/js/2.4a9b748c.chunk.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.4a9b748c.chunk.js.map",
+    "static/js/3.0557f3e6.chunk.js": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/3.0557f3e6.chunk.js",
+    "static/js/3.0557f3e6.chunk.js.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/3.0557f3e6.chunk.js.map",
     "index.html": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/index.html",
     "static/css/main.a617e044.chunk.css.map": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.c3caeb76.chunk.js.LICENSE.txt": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.c3caeb76.chunk.js.LICENSE.txt",
+    "static/js/2.4a9b748c.chunk.js.LICENSE.txt": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/js/2.4a9b748c.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/SebastianOpiyo/Demo_React_Rest_Crud_App/tree/consuming_api/Chuck_Norris/chuck-norris/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.086e0bb9.js",
-    "static/js/2.c3caeb76.chunk.js",
+    "static/js/runtime-main.8a5facb2.js",
+    "static/js/2.4a9b748c.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.29ffaeab.chunk.js"
+    "static/js/main.ea177696.chunk.js"
   ]
 }
