@@ -2,14 +2,14 @@ import React,{ useState, useEffect } from 'react';
 
 const Joke = props => {
 
-    var id = props.match.params.category;
-    console.log(id);
+    var category = props.match.params.category;
+    console.log(category);
     const [error, setError] = useState(null);
     const [isLoaded, setIsLoaded] = useState(false);
     const [jokes, setJokes] = useState([]);
 
     useEffect(() => {
-        fetch(`https://api.chucknorris.io/jokes/random?category=${id}`)
+        fetch(`https://api.chucknorris.io/jokes/random?category=${category}`)
             .then(res => res.json())
             .then(
                 (data) => {
@@ -34,12 +34,14 @@ const Joke = props => {
     if (jokes) {
         return (
             <div>
-                <h1>ID: {jokes.id}</h1>
+                <h1>Joke ID: {jokes.id}</h1>
                 <div>
-                    Icon: {jokes.icon_url}
+                    
+                    <img src={jokes.icon_url} alt="Joke Image"/>
+                    <small>Icon: Chuck Norris </small>
                 </div>
                 <div>
-                    Value: {jokes.value}
+                    Joke: {jokes.value}
                 </div>
             </div>
         );
