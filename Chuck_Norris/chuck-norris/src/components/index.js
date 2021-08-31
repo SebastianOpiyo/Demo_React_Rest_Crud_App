@@ -14,7 +14,8 @@ const Pages = () => {
     return(
         <Router>
             <Route exact path="/" component= {TitleBar} />
-            <Route exact path="/categories" component= {Categories} />
+            <Route exact path="/" component= {Categories} />
+            <Route exact path="/categories/:id" component= {Joke} />
             <Route path = "/joke" component = {Joke} />
         </Router>
     );
